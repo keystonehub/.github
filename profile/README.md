@@ -17,7 +17,7 @@ Having both paid and free resources listed seemed like a smart idea, but over ti
 This extra support time directly takes away from the dedicated support customers deserve.
 
 To address this, we had some discussions about creating a dedicated open-source hub. 
-The idea is simple: provide a home for free open-source resources—either branded under Keystone *('key_')* or left unbranded entirely *('fivem_')* while keeping them separate from paid releases.
+The idea is simple: provide a home for free open-source resources—either branded under Keystone *('key_')* or left unbranded entirely while keeping them separate from paid releases.
 This separation allows us creators to continue contributing to the community without compromising the experience for paying customers.
 
 Keystone is a collaborative space for developers and creators to share, improve, and build resources that benefit the FiveM community. 
